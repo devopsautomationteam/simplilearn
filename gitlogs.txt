@@ -1,0 +1,149 @@
+
+C:\Users\JayaSree\Desktop\JAVA>
+C:\Users\JayaSree\Desktop\JAVA>
+C:\Users\JayaSree\Desktop\JAVA>git init
+Initialized empty Git repository in C:/Users/JayaSree/Desktop/JAVA/.git/
+
+C:\Users\JayaSree\Desktop\JAVA>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        Hello.class
+        Hello.java
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\JayaSree\Desktop\JAVA>git add -A
+
+C:\Users\JayaSree\Desktop\JAVA>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   Hello.class
+        new file:   Hello.java
+
+
+C:\Users\JayaSree\Desktop\JAVA>git config --global user.email "devops.automation
+team@gmail.com"
+
+C:\Users\JayaSree\Desktop\JAVA>git config --global user.name "devopsautomationte
+am"
+
+C:\Users\JayaSree\Desktop\JAVA>git commit -m "add these 2 files"
+[master (root-commit) c5859e2] add these 2 files
+ 2 files changed, 10 insertions(+)
+ create mode 100644 Hello.class
+ create mode 100644 Hello.java
+
+C:\Users\JayaSree\Desktop\JAVA>
+
+C:\Users\JayaSree\Desktop\JAVA>git remote add origin https://github.com/devopsau
+tomationteam/simplilearn.git
+
+C:\Users\JayaSree\Desktop\JAVA>git push -u origin master
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 638 bytes | 638.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0)
+To https://github.com/devopsautomationteam/simplilearn.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+C:\Users\JayaSree\Desktop\JAVA>
+
+
+
+https://github.com/devopsautomationteam/simplilearn.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
